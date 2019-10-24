@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mofuliunian.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-10-24T08:00:45.137Z</updated>
+    <title>Sakura</title>
+    <updated>2019-10-24T08:02:51.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mofuliunian.github.io/"/>
     <link rel="self" href="https://mofuliunian.github.io//atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://mofuliunian.github.io//images/avatar.png</logo>
     <icon>https://mofuliunian.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, Sakura</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://mofuliunian.github.io//post/hello-gridea</id>
